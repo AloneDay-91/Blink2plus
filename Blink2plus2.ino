@@ -1,5 +1,5 @@
 /*
- Titre : blink2+ elouan bruzek 119
+ Titre : blink2+
  */
 
 // Déclaration de variables globales
