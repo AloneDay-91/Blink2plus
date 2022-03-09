@@ -1,5 +1,3 @@
-# Blink2plus
-
 # Blink2+ Arduino
 
 <p align="center">
