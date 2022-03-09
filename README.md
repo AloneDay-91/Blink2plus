@@ -15,5 +15,5 @@ clignote.
 
 ## Installation
 ```bash
-git clone https://github.com/AloneDay-91/Blink
+git clone https://github.com/AloneDay-91/Blink2plus
 ```
